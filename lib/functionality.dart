@@ -9,6 +9,9 @@ String getRandomQuote() {
     "The best time to plant a tree was 20 years ago. The second best time is now.",
     "Never say never. You've got this.",
     "Your wildest dreams will come true if you believe and work hard on them.",
+    "Practice makes perfect.",
+    "A goal without a plan is only a wish.",
+    "Even the best sometimes have to make sacrifices to succeed.",
   ];
 
 // generates a new Random object
@@ -31,6 +34,13 @@ int getRandomColor() {
     0xffFFD2FC,
     0xffE980FC,
     0xffB96AC9,
+    0xffEEE5E9,
+    0xffEEE5E9,
+    0xff885A89,
+    0xff8AA8A1,
+    0xffCBCBD4,
+    0xffD1B490,
+    0xffEE7B30,
   ];
 
   final _random = new Random();
